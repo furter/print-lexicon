@@ -8,4 +8,5 @@ Fait à Bruxelles, le 1er Mars 2015 pour les “Livres Parlés” - série d�
 
 Loraine Furter
 
-<a href="https://github.com/furter/print-lexicon/blob/master/print-lexicon.pdf?raw=true">download me!</a>
+Download me:
+https://github.com/furter/print-lexicon/blob/master/print-lexicon.pdf?raw=true
